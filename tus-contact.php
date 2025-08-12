@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     Tus Contact
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Plugin URI:      https://wordpress.org
+ * Description:     Creating custom form and entry show on backend
+ * Author:          Tushar K.
+ * Author URI:      https://wordpress.org/
  * Text Domain:     tus-contact
  * Domain Path:     /languages
  * Version:         0.1.0
